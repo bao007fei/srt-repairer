@@ -2,10 +2,10 @@ import time
 from SrtRepairer import SrtRepairer
 
 
-# 👇Change code here👇
+# 👇 Change code here 👇
 source_pathname = r"X:\Xxxx\Xxxxx\**\*.srt"
 target_folder_name = "srts"
-# 👆Change code here👆
+# 👆 Change code here 👆
 
 
 print("<--Welcome to srt file repairer-->\n")
