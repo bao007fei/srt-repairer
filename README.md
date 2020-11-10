@@ -28,7 +28,8 @@ xxxxxx. xx'x x xxxxxxx. xxx xx'x x xxxxxxxxx.
 ## How to use it
 
 Change the source pathname and the target folder name in the main.py. Then run it. The cooked srt files will appear in the target folder under current directory.
-```
+
+```python
 # 👇Change code here👇
 source_pathname = r"X:\Xxxx\Xxxxx\**\*.srt"
 target_folder_name = "srts"
