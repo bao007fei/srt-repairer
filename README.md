@@ -1,6 +1,6 @@
 # srt-repairer
 
-*Repair srt files that mpv can't recognize*
+*Repair srt files that **MPV**(a free, open source, and cross-platform media player) can't recognize*
 
 Sometimes there are srt files start with "0" in the first line. Mpv can't load this  kind of format.
 
