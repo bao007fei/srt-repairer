@@ -34,3 +34,7 @@ source_pathname = r"X:\Xxxx\Xxxxx\**\*.srt"
 target_folder_name = "srts"
 # 👆Change code here👆
 ```
+
+```console
+PS C:\Users\xxx\xxx\srt-repairer> python main.py
+```
